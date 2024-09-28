@@ -18,7 +18,7 @@
 
 ## Tools
 
-- **Version Control:** 📂 Git, 🐙 GitHub
+- **Version Control:** 🐙 GitHub
 - **IDE:** 💻 VS Code, 🐍 PyCharm, ☁️ Colab
 
 ---
