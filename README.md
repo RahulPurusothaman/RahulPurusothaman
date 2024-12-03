@@ -12,7 +12,6 @@
 - **Programming Languages:** 🐍 Python, 📜 SQL
 - **Other Skills:** 🤖 Gen - AI
 - **Data Science Tools:** 🐼 Pandas, 📈 NumPy, 📚 Scikit-learn
-- **Data Engineering Tools:** 🚀 Apache Airflow, 🔥 Apache Spark
 - **Machine Learning Frameworks:** 🤖 TensorFlow, 🧠 PyTorch
 - **Web Development:** 🌐 Flask, 📊 Streamlit
 
